@@ -1,0 +1,17 @@
+{
+    "name": "components/bootstrap-multiselect",
+    "description": "Fork of Bootstrap Multiselect Plugin By David Stutz",
+    "type": "library",
+    "require": {
+	"components/jquery": ">=1.11",
+        "twbs/bootstrap": ">=2.3.2"
+    },
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "David Stutz",
+            "email": "email@email.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
