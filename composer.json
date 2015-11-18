@@ -1,5 +1,5 @@
 {
-    "name": "components/bootstrap-multiselect",
+    "name": "ownede/bootstrap-multiselect",
     "description": "Fork of Bootstrap Multiselect Plugin By David Stutz",
     "type": "library",
     "require": {
